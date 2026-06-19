@@ -6,18 +6,24 @@ Senior Oracle DBA with 10+ years of experience supporting enterprise Oracle data
 
 ### Core Technologies
 
+### Database Technologies
+
 - Oracle 19c / 21c
 - Oracle RAC
 - Oracle Data Guard
-- RMAN Backup & Recovery
 - Oracle Multitenant (CDB/PDB)
-- Performance Tuning
-- Oracle GoldenGate
-- OEM Cloud Control
-- Linux & Windows Server
+- RMAN Backup & Recovery
 - SQL and PL/SQL
-- AWS
-- Disaster Recovery and High Availability
+- Performance Tuning
+- High Availability & Disaster Recovery
+
+### Administration Tools
+- SQL*Plus
+- OEM Cloud Control
+- Oracle GoldenGate
+- OPatch
+- Linux
+- Windows Server
 
 ---
 
@@ -58,11 +64,14 @@ Real-world operational procedures for Oracle database administration.
 ## Certifications
 
 - OCI GoldenGate Workshop
+- Graduate Certificate in Information Security and Assurance
+
+## Oracle Learning
+
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Cloud Data Management Foundations Associate
 - Oracle AI Foundations Associate
-- Graduate Certificate in Information Security and Assurance
-
+  
 ---
 
 ## Education
