@@ -2,7 +2,7 @@
 
 ## Senior Oracle Database Administrator
 
-Senior Oracle DBA with 10+ years of experience supporting enterprise database environments across healthcare, telecommunications, automotive, banking, and USPS mail processing systems.
+Senior Oracle DBA with 10+ years of experience supporting enterprise Oracle database environments across telecommunications, automotive, and USPS mail processing systems.
 
 ### Core Technologies
 
