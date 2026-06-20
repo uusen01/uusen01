@@ -84,7 +84,7 @@ I believe a DBA's credibility is best shown, not claimed — so my portfolio is 
 
 ## Featured Repositories
 
-> Seven sanitized, production-style Oracle repositories — each with runnable scripts/runbooks, annotated sample output, and an **Operational Screenshots (Proof of Work)** section. Demo data only (`ORADEMO`); no client identifiers.
+> **Ten** sanitized, production-style Oracle repositories — each with runnable scripts/runbooks, annotated sample output, and an **Operational Screenshots (Proof of Work)** section. Demo data only (`ORADEMO`); no client identifiers.
 
 <table>
 <tr>
@@ -166,14 +166,42 @@ GoldenGate replication monitoring, lag detection, and recovery — sanitized con
 </td>
 <td width="50%" valign="top">
 
-### ⭐ More
-All repositories are fully documented and sanitized for public, educational use.
+### 🛡️ [oracle-dataguard-runbooks](https://github.com/uusen01/oracle-dataguard-runbooks)
+Data Guard administration & DR — switchover, failover, archive-gap resolution, DGMGRL broker operations, and standby-first patching.
 <br><br>
-➡️ **[View all repositories →](https://github.com/uusen01?tab=repositories)**
+**Tech:** Data Guard · DGMGRL · switchover/failover · gap resolution
+<br>
+**Oracle:** 11g · 12c · 19c · 21c
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [oracle-rac-administration](https://github.com/uusen01/oracle-rac-administration)
+RAC & clusterware operations — crsctl/srvctl, ASM diskgroup checks, service relocation, rolling maintenance, and node-eviction triage.
+<br><br>
+**Tech:** crsctl · srvctl · ASM · interconnect
+<br>
+**Oracle:** 11g · 12c · 19c · 21c
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [oracle-automation-toolkit](https://github.com/uusen01/oracle-automation-toolkit)
+PowerShell, Python & SQL\*Plus automation — scheduled health checks, RMAN/capacity reporting, alert-log parsing, and HTML/email delivery.
+<br><br>
+**Tech:** PowerShell · Python · SQL\*Plus · scheduling
+<br>
+**Env:** 19c/21c · Windows · Linux
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  ➡️ <strong><a href="https://github.com/uusen01?tab=repositories">View all repositories →</a></strong>
+</p>
 
 ---
 
@@ -190,7 +218,9 @@ Real production activities reflected across the repositories above:
 | ✓ | **Incident response** | `oracle-dba-runbooks` — blocking, ORA-00257, listener, post-incident |
 | ✓ | **Multitenant administration** | `oracle-cdb-pdb-administration` — PDB SAVE STATE, services, undo |
 | ✓ | **Troubleshooting** | `oracle-goldengate-configs` — Extract/Replicat abends, lag, discards |
-| ✓ | **Disaster recovery preparation** | RMAN restore tests · Data Guard standby-first · guaranteed restore points |
+| ✓ | **Disaster recovery & failover** | `oracle-dataguard-runbooks` — switchover, failover, gap resolution, reinstate |
+| ✓ | **RAC & clusterware operations** | `oracle-rac-administration` — crsctl/srvctl, ASM, service relocation, node eviction |
+| ✓ | **Automation & reliability** | `oracle-automation-toolkit` — scheduled checks, reporting, alert-log parsing (PowerShell/Python) |
 
 <details>
 <summary><strong>How I work (click to expand)</strong></summary>
@@ -259,8 +289,8 @@ Real production activities reflected across the repositories above:
 ## Current Focus
 
 ```text
-▸ Oracle automation            — scripting health checks, backups, and routine maintenance
-▸ GitHub portfolio development  — sanitized, runnable proof-of-work repositories
+▸ Oracle automation            — PowerShell/Python health checks, reporting, scheduling
+▸ High availability & DR        — RAC clusterware ops + Data Guard switchover/failover
 ▸ GoldenGate administration     — monitoring, lag detection, and recovery patterns
 ▸ Performance engineering       — top-down, DB-Time-first tuning methodology
 ▸ Cloud database architecture   — Oracle on AWS / OCI; HA & DR design
