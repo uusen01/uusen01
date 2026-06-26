@@ -30,7 +30,7 @@
 
 ## About Me
 
-Senior Oracle DBA with **10+ years** supporting enterprise Oracle databases across **telecommunications (AT&T)**, **automotive (General Motors)**, and **government / postal — USPS mail-processing** systems, complemented by a graduate background in **healthcare informatics**. My work centers on the operations that keep production online under real pressure: high availability, backup and recovery, performance tuning, patching, and multitenant administration.
+Senior Oracle DBA with **9+ years** supporting enterprise Oracle databases across **telecommunications (AT&T)**, **automotive (General Motors)**, and **government / postal — USPS mail-processing** systems, complemented by a graduate background in **healthcare informatics**. My work centers on the operations that keep production online under real pressure: high availability, backup and recovery, performance tuning, patching, and multitenant administration.
 
 I believe a DBA's credibility is best shown, not claimed — so my portfolio is a set of **runnable, sanitized repositories** with real scripts, sample output, and operational walkthroughs.
 
